@@ -223,7 +223,7 @@
     },
     {
       "datasource": "${DS_LOKI}",
-      "description": " This Panel logs for Platform service Initialization",
+      "description": " This Panel logs for Platform service Initialization tesing panel ",
       "fieldConfig": {
         "defaults": {
           "custom": {},
